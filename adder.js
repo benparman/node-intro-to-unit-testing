@@ -1,3 +1,4 @@
+'use strict';
 function adder(a, b) {
   // validate that both inputs are numbers
   if (!(typeof a === 'number' && typeof b === 'number')) {
